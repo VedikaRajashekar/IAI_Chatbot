@@ -1,0 +1,374 @@
+[
+{
+    "id": 1, 
+    "question": "What is the significance of Article 14 of the Indian Constitution?", 
+    "answer": "Article 14 guarantees equality before the law and equal protection of the laws within the territory of India. It prohibits arbitrary state action and ensures that similarly situated individuals are treated alike, forming the bedrock of judicial review and fundamental rights jurisprudence."
+},
+{
+    "id": 2, 
+    "question": "Explain the doctrine of basic structure under Indian constitutional law.", 
+    "answer": "The doctrine of basic structure holds that certain features of the Constitution—such as democracy, secularism, separation of powers, and federalism—are inviolable and cannot be amended by Parliament. First articulated in Kesavananda Bharati v. State of Kerala (1973), it ensures the integrity of the constitutional framework against distortion."
+},
+{
+    "id": 3, 
+    "question": "What constitutes 'mens rea' under the Indian Penal Code?", 
+    "answer": "Mens rea refers to the 'guilty mind' or criminal intent necessary to constitute a crime. Under the IPC, most offenses require both a prohibited act (actus reus) and a culpable mental state, such as intention, knowledge, recklessness, or negligence, to establish criminal liability."
+},
+{
+    "id": 4, 
+    "question": "Define 'actus reus' and its importance in criminal law.", 
+    "answer": "Actus reus is the external element of a crime, comprising the guilty act or omission. It is essential alongside mens rea to prove an offense, ensuring that only physical conduct coupled with requisite intent or knowledge leads to criminal conviction."
+},
+{
+    "id": 5, 
+    "question": "Describe the procedure for filing a public interest litigation (PIL) in India.", 
+    "answer": "A PIL can be filed under Article 32 or Article 226 by any public-spirited individual or organization in the Supreme Court or High Court. The petition must demonstrate a matter of public concern, lack of alternative remedies, and the petitioner’s bona fide intent to protect public interest, followed by notice to respondents and judicial scrutiny."
+},
+{
+    "id": 6, 
+    "question": "What are the essential elements of a valid contract under the Indian Contract Act?", 
+    "answer": "A valid contract requires (1) offer and acceptance; (2) lawful consideration; (3) capacity to contract; (4) free consent; (5) lawful object; (6) certainty and possibility of performance; and (7) not being expressly declared void by statute. All elements must coincide for enforceability."
+},
+{
+    "id": 7, 
+    "question": "Explain the concept of consideration in contract law.", 
+    "answer": "Consideration is something of value exchanged between parties; it can be a promise, act, forbearance, or detriment. Under Section 2(d) of the Contract Act, consideration must move at the desire of the promisor, though past, present, or future consideration is valid if lawful and not illusory."
+},
+{
+    "id": 8, 
+    "question": "What remedies are available for breach of contract?", 
+    "answer": "Remedies include damages (compensatory, nominal, liquidated), specific performance (equitable relief to enforce terms), injunctions (prevent breach), and restitution (restoring parties to pre-contract position). Choice depends on nature of breach, adequacy of damages, and discretionary equitable jurisdiction."
+},
+{
+    "id": 9, 
+    "question": "Define ‘quasi-contract’ with an example.", 
+    "answer": "A quasi-contract under Sections 68–72 of the Contract Act arises by operation of law to prevent unjust enrichment, despite no agreement. Example: A pays taxes mistakenly on behalf of another; the payee must reimburse under 'money paid by mistake.'"
+},
+{
+    "id": 10, 
+    "question": "What is the doctrine of promissory estoppel?", 
+    "answer": "Promissory estoppel prevents a promisor from reneging on a promise if the promisee has relied on it to their detriment. Recognized under Section 115, it upholds fairness, even absent consideration, by barring denial of the promise."
+},
+{"id": 11, "question": "Explain the difference between ‘void’ and ‘voidable’ contracts.", "answer": "Void contracts are invalid ab initio, having no legal effect (e.g., agreements to commit crime). Voidable contracts are valid until voided by an aggrieved party (e.g., contracts induced by fraud or coercion), who may affirm or rescind the contract."
+},
+{"id": 12, "question": "What is the scope of fundamental rights under Part III of the Constitution?", "answer": "Part III enshrines eight fundamental rights including the right to equality, freedom, against exploitation, to freedom of religion, cultural and educational rights, and constitutional remedies. They bind the state and ensure protection against legislative or executive encroachment."
+},
+{"id": 13, "question": "Explain sovereign, federal, and unitary features of the Indian Constitution.", "answer": "India is a sovereign republic with ultimate power internally and externally. It has a federal structure dividing powers between Centre and States (Seventh Schedule), but exhibits unitary features like Parliament’s power to override state legislation during emergencies, making it quasi-federal."
+},
+{"id": 14, "question": "What is the procedure for constitutional amendment in India?", "answer": "Amendments under Article 368 require a special majority: two-thirds of members present and voting in both Houses, plus majority of total membership. Certain amendments (federal aspects) also need ratification by half of state legislatures."
+},
+{"id": 15, "question": "Define 'judicial review' in the Indian context.", "answer": "Judicial review is the power of courts to assess the constitutionality of legislative and executive actions. It safeguards fundamental rights and basic structure, ensuring that state actions comply with constitutional mandates."
+},
+{"id": 16, "question": "What are the grounds for judicial review of administrative action?", "answer": "Grounds include illegality (beyond power), irrationality (Wednesbury unreasonableness), procedural impropriety, and violation of legitimate expectation. Courts ensure fairness and legality in administrative decision-making."
+},
+{"id": 17, "question": "Explain 'habeas corpus' under Article 32.", "answer": "Habeas corpus is a legal remedy against unlawful detention. Under Article 32, the Supreme Court issues a writ directing the detaining authority to produce the detainee and justify the detention, safeguarding personal liberty."
+},
+{"id": 18, "question": "What is 'mandamus' and when is it issued?", "answer": "Mandamus is a writ commanding a public authority to perform a public duty it has failed or refused. It cannot direct discretionary acts but ensures enforcement of legal obligations owed to citizenry."
+},
+{"id": 19, "question": "Define 'certiorari' and its purpose.", "answer": "Certiorari quashes orders, decisions, or proceedings of lower courts or tribunals for jurisdictional errors or gross illegality. It controls judicial and quasi-judicial bodies, ensuring they act within lawful bounds."
+},
+{"id": 20, "question": "What is 'prohibition' writ?", "answer": "Prohibition prevents lower courts or tribunals from exceeding jurisdiction or acting contrary to law. It is issued to stop ongoing proceedings that lack jurisdiction, maintaining hierarchical judicial order."
+},
+{"id": 21, "question": "Explain privilege against self-incrimination under Article 20(3).", "answer": "Article 20(3) protects individuals from being compelled to testify against themselves in criminal proceedings. It upholds the principle that the prosecution must establish guilt without forcing confessions."
+},
+{"id": 22, "question": "What does double jeopardy mean under Article 20(2)?", "answer": "Double jeopardy prohibits prosecution or punishment more than once for the same offense. Article 20(2) ensures no person is tried or punished again on a conviction or acquittal by a competent court."
+},
+{"id": 23, "question": "Describe the right to equality of opportunity in public employment (Article 16).", "answer": "Article 16 guarantees equality of opportunity in matters of public employment, prohibiting discrimination on grounds of religion, race, caste, sex, descent, place of birth, or residence, subject to qualifications and reservation policies."
+},
+{"id": 24, "question": "What is the difference between Directive Principles and Fundamental Rights?", "answer": "Fundamental Rights are enforceable legal rights; Directive Principles of State Policy are non-justiciable guidelines for governance. While FRs bind the state in courts, DPSPs guide legislation, aiming to achieve social justice and welfare."
+},
+{"id": 25, "question": "Define 'ultra vires' doctrine in administrative law.", "answer": "Ultra vires refers to acts beyond legal power or authority. In administrative law, such acts are void and can be struck down by courts, ensuring public bodies act within statutory limits."
+},
+{"id": 26, "question": "Explain 'natural justice' and its rules.", "answer": "Natural justice principles—'audi alteram partem' (hear the other side) and 'nemo judex in causa sua' (no one should be judge in own cause)—require fairness, unbiased decision-making, and opportunity to be heard in administrative proceedings."
+},
+{"id": 27, "question": "What is 'constructive bail'?", "answer": "Constructive bail arises when a bail application is filed timely but not disposed before detention, treating the applicant as bailed from the date of application. It prevents deprivation of liberty due to procedural delay."
+},
+{"id": 28, "question": "Differentiate between 'bailable' and 'non-bailable' offenses.", "answer": "Bailable offenses entitle the accused to bail as a matter of right, whereas non-bailable offenses grant bail at the court’s discretion after considering factors like nature of offense, evidence, and flight risk."
+},
+{"id": 29, "question": "What are the grounds for anticipatory bail?", "answer": "Under Section 438 of CrPC, anticipatory bail is granted when the accused apprehends arrest for a non-bailable offense. Grounds include prima facie weak evidence, nature and gravity of accusation, character of the applicant, and likelihood of flight or tampering."
+},
+{"id": 30, "question": "Explain the hierarchy of criminal courts in India.", "answer": "The hierarchy: Supreme Court at apex, High Courts in states, District and Sessions Courts, and subordinate courts (e.g., Magistrate Courts). Each level exercises appellate and original jurisdiction as per CrPC and state laws."
+},
+{"id": 31, "question": "Define 'search and seizure' under CrPC.", "answer": "Search and seizure involve law enforcement’s power to inspect premises (search) and confiscate incriminating items (seizure). Governed by Sections 93–102, it requires reasoned orders, respect for privacy, and compliance with legal safeguards."
+},
+{"id": 32, "question": "What is Section 41 of CrPC?", "answer": "Section 41 lists conditions for police arrest without warrant in cognizable offenses, including reasonable suspicion, identity verification, and necessity to prevent offense continuation or evidence tampering, ensuring checks on arbitrary arrests."
+},
+{"id": 33, "question": "Explain the principle of double responsibility in police investigation.", "answer": "Double responsibility mandates police to investigate impartially for prosecution and protect suspect’s rights, balancing crime control with civil liberties. It requires lawful conduct, accurate reporting, and respecting procedural safeguards."
+},
+{"id": 34, "question": "What constitutes 'evidence' under the Indian Evidence Act?", "answer": "Evidence includes oral testimony, documentary proof, and material objects presented before a court to prove or disprove facts. Sections 3–58 define relevancy, admissibility, and weight of evidence in judicial proceedings."
+},
+{"id": 35, "question": "Differentiate direct and indirect evidence.", "answer": "Direct evidence directly proves fact without inference (e.g., eyewitness testimony), while indirect or circumstantial evidence requires inference from facts (e.g., fingerprint at crime scene), often requiring multiple pieces to establish guilt."
+},
+{"id": 36, "question": "What is the doctrine of res gestae?", "answer": "Res gestae comprises spontaneous statements or acts contemporaneous with an event, deemed part of transaction and admissible despite hearsay rule, as they provide context and reduce risk of fabrication."
+},
+{"id": 37, "question": "Explain privilege for communication between lawyer and client.", "answer": "Client-lawyer privilege protects confidential communications made for legal advice from disclosure in court. Established under Section 126 of Evidence Act, it upholds client’s trust and integrity of legal advice."
+},
+{"id": 38, "question": "Define the concept of 'adverse possession' in property law.", "answer": "Adverse possession allows a person to acquire legal title to another’s property by continuous, open, hostile, and exclusive possession for statutory period (12 years for private land, 30 years against government). It resolves long-standing disputes over land."
+},
+{"id": 39, "question": "What are the essential elements of a valid gift?", "answer": "Under the Transfer of Property Act, a valid gift requires (1) donor’s intent, (2) gift made voluntarily and without consideration, (3) delivery of possession (symbolic or actual), and (4) acceptance by donee during donor’s lifetime."
+},
+{"id": 40, "question": "Explain 'trespass to person' and its forms.", "answer": "Trespass to person includes assault, battery, and false imprisonment. Assault is causing apprehension of harm, battery is wrongful physical contact, and false imprisonment is unlawful detention without consent or legal authority."
+},
+{"id": 41, "question": "What is defamation under Indian law?", "answer": "Defamation involves publication of false statements harming a person’s reputation. Civil remedy under tort law allows damages; criminal remedy under IPC Sections 499–500 prescribes fines and imprisonment for malicious defamation."
+},
+{"id": 42, "question": "Explain the right to information under RTI Act, 2005.", "answer": "The RTI Act empowers citizens to access information held by public authorities. It mandates disclosure, timely response within 30 days, and establishes Information Commissions for appeals and penalties, enhancing transparency and accountability."
+},
+{"id": 43, "question": "What is the procedure for company incorporation under Companies Act, 2013?", "answer": "Incorporation requires (1) approval of name with Registrar, (2) filing of Memorandum and Articles of Association, (3) declaration of compliance by professionals, (4) payment of fees, and (5) issuance of Certificate of Incorporation."
+},
+{"id": 44, "question": "Define 'share capital' and its types.", "answer": "Share capital is funds raised by issuing shares. Types include authorized, issued, subscribed, and paid-up capital. Equity shares carry voting rights; preference shares have preferential dividend but limited voting."
+},
+{"id": 45, "question": "What are the duties of company directors?", "answer": "Directors owe fiduciary duties: duty of care, skill, and diligence; duty to act in company’s best interest; avoid conflicts; and comply with statutory provisions. Breach can lead to civil and criminal liability."
+},
+{"id": 46, "question": "Explain the winding-up process of a company.", "answer": "Winding-up involves liquidation of assets to satisfy creditors, distribution of surplus to shareholders, and dissolution. Modes include voluntary (members’ or creditors’) and compulsory (court-ordered), governed by Companies Act sections 270–365."
+},
+{"id": 47, "question": "Describe 'insider trading' regulations in India.", "answer": "SEBI prohibits trading by persons with access to unpublished price-sensitive information. Regulations mandate disclosure of trades, compliance programs, and impose penalties for violations to maintain market integrity."
+},
+{"id": 48, "question": "What constitutes sexual harassment at workplace under POSH Act?", "answer": "Sexual harassment includes unwelcome sexually colored remarks, physical contact, demand for sexual favors, and hostile environment. The POSH Act mandates internal complaints committees, inquiry procedures, and safeguards against retaliation."
+},
+{"id": 49, "question": "Explain the Maternity Benefit Act, 1961 provisions.", "answer": "The Act entitles pregnant women to maternity leave of 26 weeks, medical bonus, and nursing breaks. Employers must ensure job security, prohibit dismissal due to pregnancy, and provide creche facilities for establishments with 50+ employees."
+},
+{"id": 50, "question": "What is the difference between 'employee' and 'independent contractor'?", "answer": "Employees work under employer’s control, entitled to statutory benefits and protections. Independent contractors offer services under contract, maintain autonomy, and are not covered by labor laws like employees."
+},
+{"id": 51, "question": "Define 'partnership' under the Indian Partnership Act. ", "answer": "Partnership is a voluntary association of two or more persons to share profits of a business carried on by all or any one acting for all. Governed by mutual agreement, it involves agency principles and joint-liability of partners."
+},
+{"id": 52, "question": "What is 'limited liability partnership' (LLP)?", "answer": "LLP combines partnership flexibility with limited liability for partners. Governed by LLP Act, partners are not personally liable for LLP’s debts beyond agreed contribution, enhancing business viability and risk management."
+},
+{"id": 53, "question": "Explain arbitration under the Arbitration and Conciliation Act, 1996.", "answer": "The Act provides for arbitration as an alternative dispute resolution mechanism, covering appointment of arbitrators, conduct of proceedings, and enforcement of awards. It emphasizes party autonomy and minimal court intervention."
+},
+{
+    "id": 54, 
+    "question": "What is a conciliation proceeding?", 
+    "answer": "Conciliation is voluntary, confidential ADR where conciliator assists parties to reach amicable settlement. The process is less formal than arbitration, and agreements reached are binding once reduced to writing."
+},
+{   "id": 55, 
+    "question": "Define 'consumer' under the Consumer Protection Act, 2019.", 
+    "answer": "Consumer includes any person who buys goods or hires services for personal use, including online purchases. Excludes purchases for business purposes. The Act establishes consumer disputes redressal forums at district, state, and national levels."
+},
+{
+    "id": 56,
+    "question": "What is the writ of Habeas Corpus under Indian law?",
+    "answer": "The writ of Habeas Corpus, literally “to produce the body,” is a fundamental safeguard of personal liberty under Article 32 and Article 226 of the Constitution. It may be invoked by any person on behalf of someone detained unlawfully or without legal authority. The court issues a direction to the detaining authority to produce the detainee before it and justify the detention. If the detention is found illegal, the court orders immediate release."
+},
+{
+    "id": 57,
+    "question": "What is a Public Interest Litigation (PIL)?",
+    "answer": "A Public Interest Litigation (PIL) is a legal mechanism that allows any individual or organization to file a petition in court for the protection of the public interest. It is usually filed in cases where the rights of a larger group are affected, such as environmental issues, human rights violations, or government inaction. PILs can be filed in the High Courts under Article 226 or in the Supreme Court under Article 32 of the Constitution."
+},
+{
+    "id": 58,
+    "question": "Can police arrest without a warrant in India?",
+    "answer": "Yes, under Section 41 of the Criminal Procedure Code (CrPC), police can arrest a person without a warrant if the person is suspected of committing a cognizable offense. Cognizable offenses include serious crimes such as murder, rape, and kidnapping. However, the police must record reasons for such arrest and follow procedural safeguards to ensure protection of individual rights."
+},
+{
+    "id": 59,
+    "question": "What is the difference between bailable and non-bailable offenses?",
+    "answer": "Bailable offenses are those in which the accused has a right to be released on bail; the court or police must grant bail as a matter of right (e.g., petty theft). Non-bailable offenses are more serious crimes (e.g., murder, rape) where bail is granted at the court’s discretion, considering factors like severity, flight risk, and public interest."
+},
+{
+    "id": 60,
+    "question": "What is an anticipatory bail?",
+    "answer": "Anticipatory bail is a direction by a court under Section 438 CrPC to release a person on bail even before arrest, when there is apprehension of arrest for a non-bailable offense. It protects the individual’s right to personal liberty and prevents unnecessary detention, subject to conditions the court may impose."
+},
+{
+    "id": 61,
+    "question": "Explain summary trial under the CrPC.",
+    "answer": "Summary trial is a fast-track procedure for trial of minor offenses specified in Chapter XXII CrPC. It dispenses with formalities like framing of detailed charges and elaborate examination of witnesses. The magistrate conducts a concise examination, records evidence, and delivers judgment within a shorter timeframe."
+},
+{
+    "id": 62,
+    "question": "What is promissory estoppel?",
+    "answer": "Promissory estoppel is a doctrine under Section 115 of the Evidence Act that prevents a party from going back on a promise when another party has relied on it to their detriment. It enforces fairness by barring a promisor from denying the promise if it would harm the promisee, even in absence of consideration."
+},
+{
+    "id": 63,
+    "question": "What constitutes a valid Contract under the Indian Contract Act?",
+    "answer": "A valid contract requires (1) offer and acceptance, (2) lawful consideration, (3) capacity of parties, (4) free consent, (5) lawful object, and (6) not expressly declared void. If any of these elements is missing—e.g., consent induced by fraud—the contract is void or voidable."
+},
+{
+    "id": 64,
+    "question": "Explain the concept of undue influence in contract law.",
+    "answer": "Undue influence arises when one party uses its dominant position to override the free will of the other, compelling them to enter into a contract. Section 16 of the Contract Act provides that any agreement made under undue influence is voidable at the option of the influenced party."
+},
+{
+    "id": 65,
+    "question": "What is Section 138 of the Negotiable Instruments Act?",
+    "answer": "Section 138 deals with dishonor of cheque for insufficiency of funds. If a person issues a cheque that bounces due to insufficient funds or exceeds the amount arranged, the giver of the cheque can face criminal liability—imprisonment up to two years or fine up to twice the cheque amount—provided notice is given and no payment is made within 15 days."
+},
+{
+    "id": 66,
+    "question": "What remedies are available under the Protection of Women from Domestic Violence Act?",
+    "answer": "The Act provides civil remedies: protection orders (bar respondent from abuse), residence orders (right to occupy shared household), monetary relief (compensation for expenses), custody orders, and counseling/mediation. Violation of protection orders can attract criminal sanctions."
+},
+{
+    "id": 67,
+    "question": "Differentiate between a general partnership and a limited liability partnership (LLP).",
+    "answer": "In a general partnership under the Partnership Act, partners have unlimited personal liability and joint management. In an LLP under the LLP Act, partners (designated as ‘designated partners’) have liability limited to their contribution, while enjoying the organizational flexibility of a partnership."
+},
+{
+    "id": 68,
+    "question": "What is a Power of Attorney (PoA)?",
+    "answer": "A Power of Attorney is a legal document by which one person (the principal) authorizes another (the agent or attorney-in-fact) to act on their behalf in legal or financial matters. It must comply with the Powers of Attorney Act, be executed on non-judicial stamp paper, and registered if it deals with immovable property."
+},
+{
+    "id": 69,
+    "question": "Explain the doctrine of merger in property law.",
+    "answer": "The doctrine of merger applies when a lesser interest and a greater interest in the same property vest in the same person without any other person having any intervening interest. The lesser interest merges into the greater one and ceases to exist (e.g., when a lessee acquires the freehold)."
+},
+{
+    "id": 70,
+    "question": "What is the principle of corporate veil, and when can it be pierced?",
+    "answer": "The corporate veil separates a company’s legal personality from its shareholders. Courts may pierce the veil—ignoring this separate existence—to hold shareholders personally liable in cases of fraud, sham companies, or when the company is used to evade legal obligations."
+},
+
+{
+    "id": 71,
+    "question": "What is the procedure for amending the Constitution of India under Article 368?",
+    "answer": "Article 368 of the Constitution prescribes a special parliamentary procedure: (1) A bill for amendment must be passed by a majority of total membership of each House of Parliament and by a majority of not less than two-thirds of members present and voting. (2) Certain amendments (federal provisions) also require ratification by at least half of the State Legislatures. (3) After parliamentary passage and state ratification (if required), the President’s assent is necessary for enactment."
+},
+{
+    "id": 72,
+    "question": "What are Fundamental Rights under the Indian Constitution?",
+    "answer": "Fundamental Rights (Part III) are justiciable guarantees ensuring civil liberties such as Right to Equality (Articles 14–18), Freedom (Articles 19–22), Right against Exploitation (Articles 23–24), Right to Religion (Articles 25–28), Cultural and Educational Rights (Articles 29–30), and Right to Constitutional Remedies (Article 32). They protect individuals against state action and can be enforced directly in the Supreme Court or High Courts."
+},
+{
+    "id": 73,
+    "question": "How do Directive Principles of State Policy differ from Fundamental Rights?",
+    "answer": "Directive Principles (Part IV) are non-justiciable guidelines for governance aiming at social justice, economic welfare, and promotion of welfare state objectives. Unlike Fundamental Rights, they cannot be enforced by courts but are fundamental in the governance of the country and instruct the state to frame policies for equitable distribution of resources and social welfare."
+},
+{
+    "id": 74,
+    "question": "What legal remedies are available for violation of Fundamental Rights?",
+    "answer": "Under Article 32 (Supreme Court) and Article 226 (High Courts), individuals can file writ petitions for enforcement of Fundamental Rights. The five writs are Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto, each designed to address specific legal wrongs such as unlawful detention or excess of jurisdiction."
+},
+{
+    "id": 75,
+    "question": "How is an arbitral award enforced in India under the Arbitration and Conciliation Act, 1996?",
+    "answer": "An arbitral award becomes a decree of the court when filed under Section 36. The successful party applies to the competent court, which issues a certificate converting the award into a civil court decree. Thereafter, execution proceedings under the Code of Civil Procedure may be initiated against the non-compliant party."
+},
+{
+    "id": 76,
+    "question": "What is the corporate insolvency resolution process under the Insolvency and Bankruptcy Code (IBC), 2016?",
+    "answer": "Upon a default, a financial creditor, operational creditor, or the company itself files an application under Section 7/9/10. The National Company Law Tribunal (NCLT) admits the application, appoints an Interim Resolution Professional (IRP), and declares a moratorium. A Committee of Creditors (CoC) is formed, resolution plans are invited and approved by 66% voting share, then NCLT sanctions the plan for implementation."
+},
+{
+    "id": 77,
+    "question": "Differentiate between the writs of Mandamus and Certiorari.",
+    "answer": "Mandamus (Article 32/226) commands a public authority to perform a public or statutory duty. Certiorari quashes an order or decision of a lower court or tribunal that exceeds jurisdiction or violates the principles of natural justice."
+},
+{
+    "id": 78,
+    "question": "How does one file a consumer complaint under the Consumer Protection Act, 2019?",
+    "answer": "A consumer may file a complaint in the District, State, or National Commission based on value thresholds. The complaint must identify the opposite party, facts of deficiency or unfair trade practice, relief sought, and be accompanied by a nominal fee. The Commission issues notice, conducts hearings, may call for documents, and passes an order for relief or disposal."
+},
+{
+    "id": 79,
+    "question": "What is the difference between a warranty and a condition in the Sale of Goods Act, 1930?",
+    "answer": "A condition is an essential stipulation, breach of which allows the aggrieved party to repudiate the contract and claim damages. A warranty is a collateral stipulation, breach of which entitles only to claim damages but not to repudiate the contract."
+},
+{
+    "id": 80,
+    "question": "What are the key requirements for copyright protection under the Indian Copyright Act, 1957?",
+    "answer": "Protection subsists automatically in original literary, dramatic, musical, and artistic works, cinematograph films, and sound recordings. The work must be original and fixed in a tangible medium. No registration is required but provides prima facie evidence. Term lasts 60 years from author’s death (or publication date for films/sound recordings)."
+},
+{
+    "id": 81,
+    "question": "How does one register a trademark in India under the Trade Marks Act, 1999?",
+    "answer": "File Form TM-A with the trademark registry including applicant details, representation of mark, list of goods/services, and prescribed fee. The registry examines, issues objections or accepts, publishes in the Trademark Journal. If unopposed or after successful opposition proceedings, the mark is registered and Certificate of Registration is issued."
+},
+{
+    "id": 82,
+    "question": "What constitutes patent infringement under the Patents Act, 1970?",
+    "answer": "Infringement occurs when a third party, without license, makes, uses, sells, or imports a patented invention within India during the term of the patent. Remedies include injunctions, damages or account of profits, and delivery-up of infringing goods."
+},
+{
+    "id": 83,
+    "question": "What is Environmental Impact Assessment (EIA) under the Environment Protection Act, 1986?",
+    "answer": "EIA is a process of evaluating potential environmental impacts of proposed projects. Project proponents must prepare an EIA report, conduct public hearings, and obtain environmental clearance from the Ministry of Environment, Forest and Climate Change before commencing specified development activities."
+},
+{
+    "id": 84,
+    "question": "What are the registration requirements under the Foreign Contribution (Regulation) Act (FCRA), 2010?",
+    "answer": "Any NGO or individual receiving foreign contribution must register with the Ministry of Home Affairs under FCRA. Registration requires submission of credentials, Aadhaar/PAN of key persons, and details of proposed foreign funds’ use. Renewal is required every five years; violations attract penalties and cancellation."
+},
+{
+    "id": 85,
+    "question": "How is GST levied and administered under the Goods and Services Tax Act, 2017?",
+    "answer": "GST is a destination-based tax on supply of goods and services, levied at multiple rates. Businesses must register if turnover exceeds thresholds, file monthly/quarterly returns (GSTR-1, GSTR-3B), maintain electronic ledgers, and comply with input tax credit provisions. The GST Council recommends rates and policies."
+},
+{
+    "id": 86,
+    "question": "What tax liabilities do Non-Resident Indians (NRIs) have on income earned in India?",
+    "answer": "NRIs are taxed on income accrued or received in India. Income types include salary, house property, capital gains, and other sources. TDS applies at prescribed rates. NRIs can claim deductions under Chapters VI-A and must file returns if income exceeds basic exemption limits."
+},
+{
+    "id": 87,
+    "question": "What are the key provisions of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011?",
+    "answer": "Regulations require an acquirer to make an open offer to shareholders upon acquisition of 25% or control change in a listed company. Mandatory disclosures, minimum acceptance levels, and pricing mechanism are prescribed to protect minority shareholders."
+},
+{
+    "id": 88,
+    "question": "How does the Competition Act, 2002 regulate anti-competitive practices?",
+    "answer": "It prohibits anti-competitive agreements (Section 3), abuse of dominant position (Section 4), and regulates mergers/acquisitions that may cause appreciable adverse effect on competition (Section 5–6). The Competition Commission of India investigates, imposes penalties, and may order divestiture."
+},
+{
+    "id": 89,
+    "question": "What is locus standi in Indian judicial practice?",
+    "answer": "Locus standi refers to the legal capacity to bring an action or appear in court. Traditionally restricted to those directly affected, it has been liberalized in cases of public interest litigation, allowing any person with sufficient interest or acting for public good to file petitions."
+},
+{
+    "id": 90,
+    "question": "What constitutes the offence of sedition under Section 124A IPC?",
+    "answer": "Section 124A penalizes words or actions that bring or attempt to bring hatred, contempt, or disaffection towards the Government established by law. Punishment includes imprisonment up to life. Judicial interpretation requires clear incitement to violence or public disorder."
+},
+{
+    "id": 91,
+    "question": "How does one file an appeal under the Right to Information (RTI) Act, 2005?",
+    "answer": "First appeal lies to the Public Information Officer’s Appellate Authority within 30 days of First Appeal. Second appeal (to Central/State Information Commission) must be filed within 90 days of expiry of First Appeal decision. Fees and grounds for appeal must be provided as per the Act’s rules."
+},
+{
+    "id": 92,
+    "question": "What constitutes contempt of court in India?",
+    "answer": "Under the Contempt of Courts Act, 1971, contempt includes actions that scandalize the court, prejudge judicial proceedings, or obstruct administration of justice. Civil contempt is willful disobedience of court orders; criminal contempt is publication or behavior that interferes with justice. Punishment includes fines and imprisonment."
+},
+{
+    "id": 93,
+    "question": "Can bail be granted in POCSO cases under the Protection of Children from Sexual Offences Act, 2012?",
+    "answer": "POCSO Act classifies sexual offences against children as non-bailable and cognizable. However, Supreme Court rulings allow judicial discretion: bail may be granted for offences with lesser gravity or where further detention is unnecessary, subject to stringent conditions and child’s welfare considerations."
+},
+{
+    "id": 94,
+    "question": "What is the role of the Juvenile Justice Board under the Juvenile Justice (Care and Protection of Children) Act, 2015?",
+    "answer": "The Board, comprising a judicial magistrate and social workers, handles cases involving children in conflict with law (ages 16–18). It conducts preliminary inquiries, decides on rehabilitation or restoration orders, and may refer to Observation Homes or Special Homes, focusing on reform rather than punishment."
+},
+{
+    "id": 95,
+    "question": "What is the rule against hearsay under the Indian Evidence Act, 1872?",
+    "answer": "Section 60 prohibits oral evidence of facts not personally perceived by the witness. Hearsay—statements made by third parties—is inadmissible to prove the truth of the assertion. Exceptions include admissions, declarations against interest, dying declarations, and documents admitted under Sections 32–33."
+},
+{
+    "id": 96,
+    "question": "Explain the doctrine of equitable estoppel.",
+    "answer": "Equitable estoppel prevents a party from denying or asserting something contrary to what they represented when another party has relied upon that representation to their detriment. It ensures fairness and prevents a party from going back on promises or assurances made."
+},
+{
+    "id": 97,
+    "question": "What is the difference between a mortgage and a charge under the Transfer of Property Act, 1882?",
+    "answer": "A mortgage transfers an interest in specific immovable property as security for debt, entitling the mortgagee to sell or obtain a decree to recover the debt. A charge creates a security interest without transfer of title; the chargor retains ownership, and enforcement often requires court intervention."
+},
+{
+    "id": 98,
+    "question": "How is a partnership dissolved under the Indian Partnership Act, 1932?",
+    "answer": "Dissolution may occur by (1) agreement between partners, (2) expiry of term or completion of enterprise, (3) notice by partner at will, (4) insolvency or death of partner, (5) court order on grounds such as misconduct or impossibility. Upon dissolution, assets are realized and liabilities paid in a prescribed order."
+},
+{
+    "id": 99,
+    "question": "What are the duties of directors under the Companies Act, 2013?",
+    "answer": "Directors owe fiduciary duties: (1) act in good faith for company’s benefit, (2) exercise due care, skill, and diligence, (3) avoid conflicts of interest, (4) not achieve unlawful gains, (5) ensure statutory compliances and proper books of account. Breach may attract penalties or disqualification."
+},
+{
+    "id": 100,
+    "question": "What is a Double Taxation Avoidance Agreement (DTAA) and how does it benefit taxpayers?",
+    "answer": "DTAA is a bilateral treaty preventing the same income from being taxed in two jurisdictions. It allocates taxing rights, provides relief through tax credits or exemptions, and reduces withholding tax rates on cross-border payments, thus promoting international trade and investment."
+}
+]
+
