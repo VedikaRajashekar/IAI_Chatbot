@@ -1,0 +1,455 @@
+{
+    "rules":
+    [
+  {
+    "id": 1,
+    "keywords": ["Article 14", "Equality before law", "Equal protection", "Non-discrimination", "Fundamental Rights", "Indian Constitution", "Judicial Review", "Rule of Law", "Legal Equality"],
+    "answer": "Article 14 guarantees equality before the law and equal protection of the laws within the territory of India. It prohibits arbitrary state action and ensures that similarly situated individuals are treated alike, forming the bedrock of judicial review and fundamental rights jurisprudence."
+  },
+  {
+    "id": 2,
+    "keywords": ["Basic Structure", "Kesavananda Bharati", "Amendment", "Unamendable provisions", "Democracy", "Secularism", "Federalism", "Judicial doctrine", "Parliamentary limits", "Indian Constitution"],
+    "answer": "The doctrine of basic structure holds that certain features of the Constitution—such as democracy, secularism, separation of powers, and federalism—are inviolable and cannot be amended by Parliament. First articulated in Kesavananda Bharati v. State of Kerala (1973), it ensures the integrity of the constitutional framework against distortion."
+  },
+  {
+    "id": 3,
+    "keywords": ["Mens rea", "Guilty mind", "Criminal intention", "IPC", "Criminal liability", "Mental state", "Negligence", "Knowledge", "Recklessness", "Intent"],
+    "answer": "Mens rea refers to the 'guilty mind' or criminal intent necessary to constitute a crime. Under the IPC, most offenses require both a prohibited act (actus reus) and a culpable mental state, such as intention, knowledge, recklessness, or negligence, to establish criminal liability."
+  },
+  {
+    "id": 4,
+    "keywords": ["Actus reus", "Guilty act", "Criminal act", "Physical conduct", "Omission", "Crime components", "Indian Penal Code", "Criminal responsibility", "Offense proof"],
+    "answer": "Actus reus is the external element of a crime, comprising the guilty act or omission. It is essential alongside mens rea to prove an offense, ensuring that only physical conduct coupled with requisite intent or knowledge leads to criminal conviction."
+  },
+  {
+    "id": 5,
+    "keywords": ["Public Interest Litigation", "PIL", "Article 32", "Article 226", "High Court", "Supreme Court", "Access to justice", "Judicial activism", "Constitutional remedies", "Legal standing", "Social justice"],
+    "answer": "A PIL can be filed under Article 32 or Article 226 by any public-spirited individual or organization in the Supreme Court or High Court. The petition must demonstrate a matter of public concern, lack of alternative remedies, and the petitioner’s bona fide intent to protect public interest, followed by notice to respondents and judicial scrutiny."
+  },
+  {
+    "id": 6,
+    "keywords": ["Valid contract", "Indian Contract Act", "Offer and acceptance", "Consideration", "Free consent", "Legal capacity", "Lawful object", "Certainty", "Enforceable agreement", "Void contract"],
+    "answer": "A valid contract requires (1) offer and acceptance; (2) lawful consideration; (3) capacity to contract; (4) free consent; (5) lawful object; (6) certainty and possibility of performance; and (7) not being expressly declared void by statute. All elements must coincide for enforceability."
+  },
+  {
+    "id": 7,
+    "keywords": ["Consideration", "Section 2(d)", "Contract formation", "Bargained exchange", "Past consideration", "Future consideration", "Lawful consideration", "Indian Contract Act", "Value exchange"],
+    "answer": "Consideration is something of value exchanged between parties; it can be a promise, act, forbearance, or detriment. Under Section 2(d) of the Contract Act, consideration must move at the desire of the promisor, though past, present, or future consideration is valid if lawful and not illusory."
+  },
+  {
+    "id": 8,
+    "keywords": ["Contract breach", "Remedies", "Damages", "Specific performance", "Injunction", "Restitution", "Legal relief", "Contract enforcement", "Compensation", "Civil remedy"],
+    "answer": "Remedies include damages (compensatory, nominal, liquidated), specific performance (equitable relief to enforce terms), injunctions (prevent breach), and restitution (restoring parties to pre-contract position). Choice depends on nature of breach, adequacy of damages, and discretionary equitable jurisdiction."
+  },
+  {
+    "id": 9,
+    "keywords": ["Quasi-contract", "Unjust enrichment", "No agreement", "Restitution", "Sections 68-72", "Money paid by mistake", "Legal obligation", "Equitable remedy", "Indian Contract Act"],
+    "answer": "A quasi-contract under Sections 68–72 of the Contract Act arises by operation of law to prevent unjust enrichment, despite no agreement. Example: A pays taxes mistakenly on behalf of another; the payee must reimburse under 'money paid by mistake.'"
+  },
+  {
+    "id": 10,
+    "keywords": ["Promissory estoppel", "Section 115", "No consideration", "Reliance", "Fairness", "Equitable doctrine", "Legal promise", "Estoppel", "Indian Evidence Act", "Contractual obligation"],
+    "answer": "Promissory estoppel prevents a promisor from reneging on a promise if the promisee has relied on it to their detriment. Recognized under Section 115, it upholds fairness, even absent consideration, by barring denial of the promise."
+  },
+  {
+    "id": 11,
+    "keywords": ["Void contract", "Voidable contract", "Contract validity", "Legal effect", "Indian Contract Act", "Fraud", "Coercion", "Consent", "Contract types", "Enforceability"],
+    "answer": "Void contracts are invalid ab initio, having no legal effect (e.g., agreements to commit crime). Voidable contracts are valid until voided by an aggrieved party (e.g., contracts induced by fraud or coercion), who may affirm or rescind the contract."
+  },
+  {
+    "id": 12,
+    "keywords": ["Fundamental Rights", "Part III", "Indian Constitution", "Right to Equality", "Right to Freedom", "Right against Exploitation", "Freedom of Religion", "Cultural Rights", "Constitutional Remedies"],
+    "answer": "Part III enshrines eight fundamental rights including the right to equality, freedom, against exploitation, to freedom of religion, cultural and educational rights, and constitutional remedies. They bind the state and ensure protection against legislative or executive encroachment."
+  },
+  {
+    "id": 13,
+    "keywords": ["Sovereign", "Federal", "Unitary", "Indian Constitution", "Federalism", "Seventh Schedule", "State powers", "Centralization", "Emergency provisions", "Quasi-federal structure"],
+    "answer": "India is a sovereign republic with ultimate power internally and externally. It has a federal structure dividing powers between Centre and States (Seventh Schedule), but exhibits unitary features like Parliament’s power to override state legislation during emergencies, making it quasi-federal."
+  },
+  {
+    "id": 14,
+    "keywords": ["Constitutional Amendment", "Article 368", "Special majority", "Ratification", "Federal features", "Parliamentary procedure", "Indian Constitution", "Amendment process", "State ratification"],
+    "answer": "Amendments under Article 368 require a special majority: two-thirds of members present and voting in both Houses, plus majority of total membership. Certain amendments (federal aspects) also need ratification by half of state legislatures."
+  },
+  {
+    "id": 15,
+    "keywords": ["Judicial review", "Constitutionality", "Supreme Court", "High Court", "Fundamental Rights", "Basic Structure Doctrine", "Checks and balances", "Separation of powers", "Indian Constitution"],
+    "answer": "Judicial review is the power of courts to assess the constitutionality of legislative and executive actions. It safeguards fundamental rights and basic structure, ensuring that state actions comply with constitutional mandates."
+  },
+  {
+    "id": 16,
+    "keywords": ["Judicial review", "Administrative action", "Illegality", "Irrationality", "Procedural impropriety", "Legitimate expectation", "Wednesbury principle", "Administrative law", "Court intervention"],
+    "answer": "Grounds include illegality (beyond power), irrationality (Wednesbury unreasonableness), procedural impropriety, and violation of legitimate expectation. Courts ensure fairness and legality in administrative decision-making."
+  },
+  {
+    "id": 17,
+    "keywords": ["Habeas Corpus", "Article 32", "Unlawful detention", "Personal liberty", "Writ jurisdiction", "Supreme Court", "High Court", "Detention review", "Constitutional remedy"],
+    "answer": "Habeas corpus is a legal remedy against unlawful detention. Under Article 32, the Supreme Court issues a writ directing the detaining authority to produce the detainee and justify the detention, safeguarding personal liberty."
+  },
+  {
+    "id": 18,
+    "keywords": ["Mandamus", "Public duty", "Legal obligation", "Writ", "Administrative law", "Non-discretionary function", "Court order", "Judicial remedy", "High Court", "Supreme Court"],
+    "answer": "Mandamus is a writ commanding a public authority to perform a public duty it has failed or refused. It cannot direct discretionary acts but ensures enforcement of legal obligations owed to citizenry."
+  },
+  {
+    "id": 19,
+    "keywords": ["Certiorari", "Judicial review", "Writ", "Quash orders", "Lower courts", "Jurisdictional error", "Administrative tribunals", "Legal control", "High Court", "Supreme Court"],
+    "answer": "Certiorari quashes orders, decisions, or proceedings of lower courts or tribunals for jurisdictional errors or gross illegality. It controls judicial and quasi-judicial bodies, ensuring they act within lawful bounds."
+  },
+  {
+    "id": 20,
+    "keywords": ["Prohibition", "Writ", "Jurisdiction control", "Lower court restraint", "Prevent excess", "Judicial order", "Legal remedy", "Constitutional writ", "Administrative law", "Court hierarchy"],
+    "answer": "Prohibition prevents lower courts or tribunals from exceeding jurisdiction or acting contrary to law. It is issued to stop ongoing proceedings that lack jurisdiction, maintaining hierarchical judicial order."
+  },
+  {
+    "id": 21,
+    "keywords": ["Self-incrimination", "Article 20(3)", "Fundamental Rights", "Right to silence", "Criminal law", "Protection of accused", "Compelled testimony", "Indian Constitution", "Privilege against self-incrimination"],
+    "answer": "Article 20(3) protects individuals from being compelled to testify against themselves in criminal proceedings. It upholds the principle that the prosecution must establish guilt without forcing confessions."
+  },
+  {
+    "id": 22,
+    "keywords": ["Double jeopardy", "Article 20(2)", "Criminal trial", "Right against double punishment", "Fundamental Rights", "Indian Constitution", "Same offense", "Prosecution bar", "Legal safeguard"],
+    "answer": "Double jeopardy prohibits prosecution or punishment more than once for the same offense. Article 20(2) ensures no person is tried or punished again on a conviction or acquittal by a competent court."
+  },
+  {
+    "id": 23,
+    "keywords": ["Article 16", "Equality of opportunity", "Public employment", "Discrimination", "Reservations", "Indian Constitution", "Government jobs", "Equal access", "Fundamental Rights", "Employment law"],
+    "answer": "Article 16 guarantees equality of opportunity in matters of public employment, prohibiting discrimination on grounds of religion, race, caste, sex, descent, place of birth, or residence, subject to qualifications and reservation policies."
+  },
+  {
+    "id": 24,
+    "keywords": ["Directive Principles", "Fundamental Rights", "Part IV", "Non-justiciable", "Social justice", "Welfare state", "Policy guidelines", "Constitutional governance", "Legislative directive", "Indian Constitution"],
+    "answer": "Fundamental Rights are enforceable legal rights; Directive Principles of State Policy are non-justiciable guidelines for governance. While FRs bind the state in courts, DPSPs guide legislation, aiming to achieve social justice and welfare."
+  },
+  {
+    "id": 25,
+    "keywords": ["Ultra vires", "Administrative law", "Beyond authority", "Illegality", "Judicial review", "Void acts", "Statutory limits", "Public bodies", "Legal validity", "Unlawful action"],
+    "answer": "Ultra vires refers to acts beyond legal power or authority. In administrative law, such acts are void and can be struck down by courts, ensuring public bodies act within statutory limits."
+  },
+  {
+    "id": 26,
+    "keywords": ["Natural justice", "Audi alteram partem", "Nemo judex in causa sua", "Fair hearing", "Administrative law", "Unbiased decision-making", "Due process", "Legal principles", "Right to be heard", "Justice"],
+    "answer": "Natural justice principles—'audi alteram partem' (hear the other side) and 'nemo judex in causa sua' (no one should be judge in own cause)—require fairness, unbiased decision-making, and opportunity to be heard in administrative proceedings."
+  },
+  {
+    "id": 27,
+    "keywords": ["Constructive bail", "Bail application", "Liberty", "Detention", "Procedural delay", "Criminal procedure", "Judicial remedy", "Right to bail", "CrPC", "Legal fiction"],
+    "answer": "Constructive bail arises when a bail application is filed timely but not disposed before detention, treating the applicant as bailed from the date of application. It prevents deprivation of liberty due to procedural delay."
+  },
+  {
+    "id": 28,
+    "keywords": ["Bailable offense", "Non-bailable offense", "Bail rights", "Judicial discretion", "Criminal law", "CrPC", "Arrest", "Serious offense", "Petty crime", "Legal classification"],
+    "answer": "Bailable offenses entitle the accused to bail as a matter of right, whereas non-bailable offenses grant bail at the court’s discretion after considering factors like nature of offense, evidence, and flight risk."
+  },
+  {
+    "id": 29,
+    "keywords": ["Anticipatory bail", "Section 438", "CrPC", "Pre-arrest bail", "Non-bailable offense", "Apprehension of arrest", "Judicial discretion", "Liberty protection", "Criminal law", "Preventive remedy"],
+    "answer": "Under Section 438 of CrPC, anticipatory bail is granted when the accused apprehends arrest for a non-bailable offense. Grounds include prima facie weak evidence, nature and gravity of accusation, character of the applicant, and likelihood of flight or tampering."
+  },
+  {
+    "id": 30,
+    "keywords": ["Criminal courts", "Judicial hierarchy", "Sessions Court", "Supreme Court", "High Court", "Magistrate", "CrPC", "Jurisdiction", "Appellate court", "Indian judiciary"],
+    "answer": "The hierarchy: Supreme Court at apex, High Courts in states, District and Sessions Courts, and subordinate courts (e.g., Magistrate Courts). Each level exercises appellate and original jurisdiction as per CrPC and state laws."
+  },
+  {
+    "id": 31,
+    "keywords": ["Search and seizure", "CrPC", "Section 93", "Section 102", "Investigation", "Evidence collection", "Law enforcement", "Privacy", "Legal safeguards", "Police powers"],
+    "answer": "Search and seizure involve law enforcement’s power to inspect premises (search) and confiscate incriminating items (seizure). Governed by Sections 93–102, it requires reasoned orders, respect for privacy, and compliance with legal safeguards."
+  },
+  {
+    "id": 32,
+    "keywords": ["Section 41", "CrPC", "Arrest without warrant", "Cognizable offense", "Police powers", "Reasonable suspicion", "Arrest procedure", "Preventive arrest", "Criminal law", "Rights of accused"],
+    "answer": "Section 41 lists conditions for police arrest without warrant in cognizable offenses, including reasonable suspicion, identity verification, and necessity to prevent offense continuation or evidence tampering, ensuring checks on arbitrary arrests."
+  },
+  {
+    "id": 33,
+    "keywords": ["Double responsibility", "Police investigation", "Impartiality", "Civil liberties", "Criminal procedure", "Investigation duty", "Suspect rights", "Law enforcement conduct", "Accurate reporting", "Crime control"],
+    "answer": "Double responsibility mandates police to investigate impartially for prosecution and protect suspect’s rights, balancing crime control with civil liberties. It requires lawful conduct, accurate reporting, and respecting procedural safeguards."
+  },
+  {
+    "id": 34,
+    "keywords": ["Evidence", "Indian Evidence Act", "Oral testimony", "Documentary evidence", "Material objects", "Admissibility", "Sections 3–58", "Proof", "Court proceedings", "Judicial proof"],
+    "answer": "Evidence includes oral testimony, documentary proof, and material objects presented before a court to prove or disprove facts. Sections 3–58 define relevancy, admissibility, and weight of evidence in judicial proceedings."
+  },
+  {
+    "id": 35,
+    "keywords": ["Direct evidence", "Indirect evidence", "Circumstantial evidence", "Witness", "Inference", "Crime scene", "Proof of fact", "Judicial inference", "Indian Evidence Act", "Testimony"],
+    "answer": "Direct evidence directly proves fact without inference (e.g., eyewitness testimony), while indirect or circumstantial evidence requires inference from facts (e.g., fingerprint at crime scene), often requiring multiple pieces to establish guilt."
+  },
+  {
+    "id": 36,
+    "keywords": ["Res gestae", "Hearsay exception", "Spontaneous statement", "Indian Evidence Act", "Contemporaneous events", "Admissibility", "Section 6", "Fact in issue", "Criminal trial", "Evidence law"],
+    "answer": "Res gestae comprises spontaneous statements or acts contemporaneous with an event, deemed part of transaction and admissible despite hearsay rule, as they provide context and reduce risk of fabrication."
+  },
+  {
+    "id": 37,
+    "keywords": ["Lawyer-client privilege", "Confidentiality", "Section 126", "Indian Evidence Act", "Legal advice", "Protected communication", "Attorney-client", "Disclosure bar", "Legal ethics", "Trust"],
+    "answer": "Client-lawyer privilege protects confidential communications made for legal advice from disclosure in court. Established under Section 126 of Evidence Act, it upholds client’s trust and integrity of legal advice."
+  },
+  {
+    "id": 38,
+    "keywords": ["Adverse possession", "Property law", "Hostile possession", "Statutory period", "Title by possession", "Land dispute", "Limitation Act", "Ownership claim", "12 years rule", "30 years government land"],
+    "answer": "Adverse possession allows a person to acquire legal title to another’s property by continuous, open, hostile, and exclusive possession for statutory period (12 years for private land, 30 years against government). It resolves long-standing disputes over land."
+  },
+  {
+    "id": 39,
+    "keywords": ["Valid gift", "Transfer of Property Act", "Donor", "Donee", "Voluntary transfer", "Without consideration", "Gift essentials", "Delivery of possession", "Acceptance", "Legal gift"],
+    "answer": "Under the Transfer of Property Act, a valid gift requires (1) donor’s intent, (2) gift made voluntarily and without consideration, (3) delivery of possession (symbolic or actual), and (4) acceptance by donee during donor’s lifetime."
+  },
+  {
+    "id": 40,
+    "keywords": ["Trespass to person", "Assault", "Battery", "False imprisonment", "Torts", "Intentional torts", "Personal injury", "Unlawful contact", "Physical harm", "Legal remedies"],
+    "answer": "Trespass to person includes assault, battery, and false imprisonment. Assault is causing apprehension of harm, battery is wrongful physical contact, and false imprisonment is unlawful detention without consent or legal authority."
+  },
+  {
+    "id": 41,
+    "keywords": ["Defamation", "Reputation", "False statement", "Tort", "IPC Sections 499–500", "Civil defamation", "Criminal defamation", "Libel", "Slander", "Damages"],
+    "answer": "Defamation involves publication of false statements harming a person’s reputation. Civil remedy under tort law allows damages; criminal remedy under IPC Sections 499–500 prescribes fines and imprisonment for malicious defamation."
+  },
+  {
+    "id": 42,
+    "keywords": ["RTI Act", "Right to Information", "Transparency", "Public authorities", "Accountability", "Information Commission", "30-day response", "Citizen rights", "Disclosure", "Access to records"],
+    "answer": "The RTI Act empowers citizens to access information held by public authorities. It mandates disclosure, timely response within 30 days, and establishes Information Commissions for appeals and penalties, enhancing transparency and accountability."
+  },
+  {
+    "id": 43,
+    "keywords": ["Company incorporation", "Companies Act 2013", "Registrar of Companies", "MoA", "AoA", "Certificate of Incorporation", "Name approval", "Compliance", "Startup registration", "Incorporation procedure"],
+    "answer": "Incorporation requires (1) approval of name with Registrar, (2) filing of Memorandum and Articles of Association, (3) declaration of compliance by professionals, (4) payment of fees, and (5) issuance of Certificate of Incorporation."
+  },
+  {
+    "id": 44,
+    "keywords": ["Share capital", "Company finance", "Equity shares", "Preference shares", "Authorized capital", "Issued capital", "Subscribed capital", "Paid-up capital", "Voting rights", "Dividend"],
+    "answer": "Share capital is funds raised by issuing shares. Types include authorized, issued, subscribed, and paid-up capital. Equity shares carry voting rights; preference shares have preferential dividend but limited voting."
+  },
+  {
+    "id": 45,
+    "keywords": ["Company directors", "Duties", "Fiduciary responsibility", "Companies Act", "Duty of care", "Conflict of interest", "Corporate governance", "Statutory compliance", "Director liability", "Board of directors"],
+    "answer": "Directors owe fiduciary duties: duty of care, skill, and diligence; duty to act in company’s best interest; avoid conflicts; and comply with statutory provisions. Breach can lead to civil and criminal liability."
+  },
+  {
+    "id": 46,
+    "keywords": ["Winding-up", "Liquidation", "Companies Act", "Voluntary winding-up", "Compulsory winding-up", "Creditors", "Insolvency", "Asset distribution", "Company dissolution", "Corporate closure"],
+    "answer": "Winding-up involves liquidation of assets to satisfy creditors, distribution of surplus to shareholders, and dissolution. Modes include voluntary (members’ or creditors’) and compulsory (court-ordered), governed by Companies Act sections 270–365."
+  },
+  {
+    "id": 47,
+    "keywords": ["Insider trading", "SEBI regulations", "Unpublished price-sensitive information", "Market abuse", "Corporate fraud", "Securities law", "Disclosures", "Penalties", "Trading compliance", "Stock exchange"],
+    "answer": "SEBI prohibits trading by persons with access to unpublished price-sensitive information. Regulations mandate disclosure of trades, compliance programs, and impose penalties for violations to maintain market integrity."
+  },
+  {
+    "id": 48,
+    "keywords": ["Sexual harassment", "POSH Act", "Workplace safety", "ICC", "Unwelcome behavior", "Hostile environment", "Protection of women", "Sexual misconduct", "Complaint procedure", "Employee rights"],
+    "answer": "Sexual harassment includes unwelcome sexually colored remarks, physical contact, demand for sexual favors, and hostile environment. The POSH Act mandates internal complaints committees, inquiry procedures, and safeguards against retaliation."
+  },
+  {
+    "id": 49,
+    "keywords": ["Maternity Benefit Act", "Pregnancy leave", "Job protection", "Medical bonus", "Nursing breaks", "26 weeks leave", "Crèche facility", "Female employees", "Maternity rights", "Workplace welfare"],
+    "answer": "The Act entitles pregnant women to maternity leave of 26 weeks, medical bonus, and nursing breaks. Employers must ensure job security, prohibit dismissal due to pregnancy, and provide creche facilities for establishments with 50+ employees."
+  },
+  {
+    "id": 50,
+    "keywords": ["Employee", "Independent contractor", "Employment relationship", "Control test", "Contractual worker", "Statutory benefits", "Labour laws", "Autonomy", "Service contract", "Employer-employee"],
+    "answer": "Employees work under employer’s control, entitled to statutory benefits and protections. Independent contractors offer services under contract, maintain autonomy, and are not covered by labor laws like employees."
+  },
+  {
+    "id": 51,
+    "keywords": ["Partnership", "Indian Partnership Act", "Business association", "Mutual agency", "Profit sharing", "Firm", "Unlimited liability", "Partnership deed", "Joint liability", "Legal relationship"],
+    "answer": "Partnership is a voluntary association of two or more persons to share profits of a business carried on by all or any one acting for all. Governed by mutual agreement, it involves agency principles and joint-liability of partners."
+  },
+  {
+    "id": 52,
+    "keywords": ["Limited Liability Partnership", "LLP Act", "Business entity", "Limited liability", "Partners", "Designated partners", "Corporate structure", "Legal status", "Partnership flexibility", "Business protection"],
+    "answer": "LLP combines partnership flexibility with limited liability for partners. Governed by LLP Act, partners are not personally liable for LLP’s debts beyond agreed contribution, enhancing business viability and risk management."
+  },
+  {
+    "id": 53,
+    "keywords": ["Arbitration", "Alternative Dispute Resolution", "ADR", "Arbitration and Conciliation Act", "Dispute resolution", "Arbitral award", "Minimal court intervention", "Party autonomy", "Arbitrators", "Legal settlement"],
+    "answer": "The Act provides for arbitration as an alternative dispute resolution mechanism, covering appointment of arbitrators, conduct of proceedings, and enforcement of awards. It emphasizes party autonomy and minimal court intervention."
+  },
+  {
+    "id": 54,
+    "keywords": ["Conciliation", "ADR", "Amicable settlement", "Alternative Dispute Resolution", "Voluntary process", "Conciliator", "Mutual agreement", "Dispute resolution", "Binding settlement", "Informal procedure"],
+    "answer": "Conciliation is voluntary, confidential ADR where conciliator assists parties to reach amicable settlement. The process is less formal than arbitration, and agreements reached are binding once reduced to writing."
+  },
+  {
+    "id": 55,
+    "keywords": ["Consumer", "Consumer Protection Act 2019", "Goods and services", "Personal use", "Consumer rights", "Online purchases", "Consumer dispute", "District Forum", "State Commission", "National Commission"],
+    "answer": "Consumer includes any person who buys goods or hires services for personal use, including online purchases. Excludes purchases for business purposes. The Act establishes consumer disputes redressal forums at district, state, and national levels."
+  },
+  {
+    "id": 56,
+    "keywords": ["Habeas Corpus", "Article 32", "Article 226", "Personal liberty", "Illegal detention", "Fundamental Rights", "Judicial remedy", "Constitutional writ", "Detention review", "Legal safeguard"],
+    "answer": "The writ of Habeas Corpus, literally “to produce the body,” is a fundamental safeguard of personal liberty under Article 32 and Article 226 of the Constitution. It may be invoked by any person on behalf of someone detained unlawfully or without legal authority. The court issues a direction to the detaining authority to produce the detainee before it and justify the detention. If the detention is found illegal, the court orders immediate release."
+  },
+  {
+    "id": 57,
+    "keywords": ["Public Interest Litigation", "PIL", "Article 32", "Article 226", "Judicial activism", "Collective rights", "Environmental law", "Human rights", "Court access", "Legal remedy"],
+    "answer": "A Public Interest Litigation (PIL) is a legal mechanism that allows any individual or organization to file a petition in court for the protection of the public interest. It is usually filed in cases where the rights of a larger group are affected, such as environmental issues, human rights violations, or government inaction. PILs can be filed in the High Courts under Article 226 or in the Supreme Court under Article 32 of the Constitution."
+  },
+  {
+    "id": 58,
+    "keywords": ["Arrest", "CrPC", "Section 41", "Cognizable offense", "Police power", "Warrantless arrest", "Criminal procedure", "Serious crime", "Detention", "Rights of accused"],
+    "answer": "Yes, under Section 41 of the Criminal Procedure Code (CrPC), police can arrest a person without a warrant if the person is suspected of committing a cognizable offense. Cognizable offenses include serious crimes such as murder, rape, and kidnapping. However, the police must record reasons for such arrest and follow procedural safeguards to ensure protection of individual rights."
+  },
+  {
+    "id": 59,
+    "keywords": ["Bailable offense", "Non-bailable offense", "Bail rights", "Criminal classification", "Judicial discretion", "Arrest", "Minor crime", "Serious offense", "Legal procedure", "CrPC"],
+    "answer": "Bailable offenses are those in which the accused has a right to be released on bail; the court or police must grant bail as a matter of right (e.g., petty theft). Non-bailable offenses are more serious crimes (e.g., murder, rape) where bail is granted at the court’s discretion, considering factors like severity, flight risk, and public interest."
+  },
+  {
+    "id": 60,
+    "keywords": ["Anticipatory bail", "Section 438", "CrPC", "Pre-arrest bail", "Non-bailable offense", "Legal protection", "Preventive relief", "Court discretion", "Bail conditions", "Personal liberty"],
+    "answer": "Anticipatory bail is a direction by a court under Section 438 CrPC to release a person on bail even before arrest, when there is apprehension of arrest for a non-bailable offense. It protects the individual’s right to personal liberty and prevents unnecessary detention, subject to conditions the court may impose."
+  },
+  {
+    "id": 61,
+    "keywords": ["Summary trial", "CrPC", "Minor offenses", "Speedy justice", "Simplified procedure", "Chapter XXII", "Magistrate", "Criminal justice", "Quick judgment", "Trial without formalities"],
+    "answer": "Summary trial is a fast-track procedure for trial of minor offenses specified in Chapter XXII CrPC. It dispenses with formalities like framing of detailed charges and elaborate examination of witnesses. The magistrate conducts a concise examination, records evidence, and delivers judgment within a shorter timeframe."
+  },
+  {
+    "id": 62,
+    "keywords": ["Promissory estoppel", "Section 115", "Evidence Act", "Legal promise", "Equitable remedy", "No consideration", "Detrimental reliance", "Fairness doctrine", "Contract enforcement", "Preclusion"],
+    "answer": "Promissory estoppel is a doctrine under Section 115 of the Evidence Act that prevents a party from going back on a promise when another party has relied on it to their detriment. It enforces fairness by barring a promisor from denying the promise if it would harm the promisee, even in absence of consideration."
+  },
+  {
+    "id": 63,
+    "keywords": ["Valid contract", "Indian Contract Act", "Offer and acceptance", "Lawful consideration", "Free consent", "Capacity to contract", "Lawful object", "Void agreement", "Enforceable agreement", "Contract essentials"],
+    "answer": "A valid contract requires (1) offer and acceptance, (2) lawful consideration, (3) capacity of parties, (4) free consent, (5) lawful object, and (6) not expressly declared void. If any of these elements is missing—e.g., consent induced by fraud—the contract is void or voidable."
+  },
+  {
+    "id": 64,
+    "keywords": ["Undue influence", "Section 16", "Contract law", "Free consent", "Dominant position", "Voidable contract", "Consent pressure", "Inequality", "Coercion", "Indian Contract Act"],
+    "answer": "Undue influence arises when one party uses its dominant position to override the free will of the other, compelling them to enter into a contract. Section 16 of the Contract Act provides that any agreement made under undue influence is voidable at the option of the influenced party."
+  },
+  {
+    "id": 65,
+    "keywords": ["Section 138", "Negotiable Instruments Act", "Dishonour of cheque", "Cheque bounce", "Criminal liability", "Notice period", "Financial fraud", "Imprisonment", "Fine", "Payment default"],
+    "answer": "Section 138 deals with dishonor of cheque for insufficiency of funds. If a person issues a cheque that bounces due to insufficient funds or exceeds the amount arranged, the giver of the cheque can face criminal liability—imprisonment up to two years or fine up to twice the cheque amount—provided notice is given and no payment is made within 15 days."
+  },
+  {
+    "id": 66,
+    "keywords": ["Domestic Violence Act", "Protection of Women", "Civil remedies", "Protection order", "Residence order", "Custody", "Monetary relief", "Counseling", "Legal protection", "Women rights"],
+    "answer": "The Act provides civil remedies: protection orders (bar respondent from abuse), residence orders (right to occupy shared household), monetary relief (compensation for expenses), custody orders, and counseling/mediation. Violation of protection orders can attract criminal sanctions."
+  },
+  {
+    "id": 67,
+    "keywords": ["General partnership", "LLP", "Partnership Act", "Limited Liability Partnership", "Unlimited liability", "Designated partners", "Business structure", "Partner responsibility", "Legal entity", "Risk management"],
+    "answer": "In a general partnership under the Partnership Act, partners have unlimited personal liability and joint management. In an LLP under the LLP Act, partners (designated as ‘designated partners’) have liability limited to their contribution, while enjoying the organizational flexibility of a partnership."
+  },
+  {
+    "id": 68,
+    "keywords": ["Power of Attorney", "PoA", "Legal authorization", "Principal-agent", "Financial acts", "Registration", "Stamp paper", "Immovable property", "Legal representation", "Powers of Attorney Act"],
+    "answer": "A Power of Attorney is a legal document by which one person (the principal) authorizes another (the agent or attorney-in-fact) to act on their behalf in legal or financial matters. It must comply with the Powers of Attorney Act, be executed on non-judicial stamp paper, and registered if it deals with immovable property."
+  },
+  {
+    "id": 69,
+    "keywords": ["Doctrine of merger", "Property law", "Lesser interest", "Greater interest", "Single ownership", "Leasehold", "Freehold", "Title transfer", "Legal fusion", "Interest absorption"],
+    "answer": "The doctrine of merger applies when a lesser interest and a greater interest in the same property vest in the same person without any other person having any intervening interest. The lesser interest merges into the greater one and ceases to exist (e.g., when a lessee acquires the freehold)."
+  },
+  {
+    "id": 70,
+    "keywords": ["Corporate veil", "Company law", "Separate legal entity", "Shareholder liability", "Piercing the veil", "Fraud", "Sham company", "Abuse of entity", "Legal personality", "Company misuse"],
+    "answer": "The corporate veil separates a company’s legal personality from its shareholders. Courts may pierce the veil—ignoring this separate existence—to hold shareholders personally liable in cases of fraud, sham companies, or when the company is used to evade legal obligations."
+  },
+  {
+    "id": 71,
+    "keywords": ["Article 368", "Constitutional amendment", "Indian Constitution", "Special majority", "State ratification", "Amending process", "Parliamentary procedure", "Federal structure", "Presidential assent", "Legislative powers"],
+    "answer": "Article 368 of the Constitution prescribes a special parliamentary procedure: (1) A bill for amendment must be passed by a majority of total membership of each House of Parliament and by a majority of not less than two-thirds of members present and voting. (2) Certain amendments (federal provisions) also require ratification by at least half of the State Legislatures. (3) After parliamentary passage and state ratification (if required), the President’s assent is necessary for enactment."
+  },
+  {
+    "id": 72,
+    "keywords": ["Fundamental Rights", "Part III", "Indian Constitution", "Right to Equality", "Right to Freedom", "Right against Exploitation", "Right to Religion", "Educational Rights", "Constitutional Remedies", "Enforceable rights"],
+    "answer": "Fundamental Rights (Part III) are justiciable guarantees ensuring civil liberties such as Right to Equality (Articles 14–18), Freedom (Articles 19–22), Right against Exploitation (Articles 23–24), Right to Religion (Articles 25–28), Cultural and Educational Rights (Articles 29–30), and Right to Constitutional Remedies (Article 32). They protect individuals against state action and can be enforced directly in the Supreme Court or High Courts."
+  },
+  {
+    "id": 73,
+    "keywords": ["Directive Principles", "Fundamental Rights", "Part IV", "Indian Constitution", "Non-justiciable", "Social justice", "Economic welfare", "State policy", "Governance", "Welfare state"],
+    "answer": "Directive Principles (Part IV) are non-justiciable guidelines for governance aiming at social justice, economic welfare, and promotion of welfare state objectives. Unlike Fundamental Rights, they cannot be enforced by courts but are fundamental in the governance of the country and instruct the state to frame policies for equitable distribution of resources and social welfare."
+  },
+  {
+    "id": 74,
+    "keywords": ["Fundamental Rights", "Violation remedy", "Writ jurisdiction", "Article 32", "Article 226", "Supreme Court", "High Court", "Constitutional remedies", "Writs", "Judicial enforcement"],
+    "answer": "Under Article 32 (Supreme Court) and Article 226 (High Courts), individuals can file writ petitions for enforcement of Fundamental Rights. The five writs are Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto, each designed to address specific legal wrongs such as unlawful detention or excess of jurisdiction."
+  },
+  {
+    "id": 75,
+    "keywords": ["Arbitral award", "Enforcement", "Arbitration and Conciliation Act", "Section 36", "Decree of court", "Award execution", "Civil Procedure Code", "Court certificate", "Legal remedy", "Judgment enforcement"],
+    "answer": "An arbitral award becomes a decree of the court when filed under Section 36. The successful party applies to the competent court, which issues a certificate converting the award into a civil court decree. Thereafter, execution proceedings under the Code of Civil Procedure may be initiated against the non-compliant party."
+  },
+  {
+    "id": 76,
+    "keywords": ["Insolvency", "Bankruptcy", "IBC 2016", "Corporate insolvency resolution", "NCLT", "Section 7", "Section 9", "Moratorium", "Committee of Creditors", "Resolution plan"],
+    "answer": "Upon a default, a financial creditor, operational creditor, or the company itself files an application under Section 7/9/10. The National Company Law Tribunal (NCLT) admits the application, appoints an Interim Resolution Professional (IRP), and declares a moratorium. A Committee of Creditors (CoC) is formed, resolution plans are invited and approved by 66% voting share, then NCLT sanctions the plan for implementation."
+  },
+  {
+    "id": 77,
+    "keywords": ["Writ of Mandamus", "Writ of Certiorari", "Writ jurisdiction", "Judicial review", "Public duty", "Administrative error", "Natural justice", "Jurisdictional error", "Article 226", "Article 32"],
+    "answer": "Mandamus (Article 32/226) commands a public authority to perform a public or statutory duty. Certiorari quashes an order or decision of a lower court or tribunal that exceeds jurisdiction or violates the principles of natural justice."
+  },
+  {
+    "id": 78,
+    "keywords": ["Consumer complaint", "Consumer Protection Act 2019", "District Commission", "State Commission", "National Commission", "Unfair trade practice", "Service deficiency", "Legal remedy", "Filing procedure", "Dispute resolution"],
+    "answer": "A consumer may file a complaint in the District, State, or National Commission based on value thresholds. The complaint must identify the opposite party, facts of deficiency or unfair trade practice, relief sought, and be accompanied by a nominal fee. The Commission issues notice, conducts hearings, may call for documents, and passes an order for relief or disposal."
+  },
+  {
+    "id": 79,
+    "keywords": ["Warranty", "Condition", "Sale of Goods Act", "Contract terms", "Essential stipulation", "Collateral stipulation", "Breach consequences", "Repudiation", "Damages", "Legal distinction"],
+    "answer": "A condition is an essential stipulation, breach of which allows the aggrieved party to repudiate the contract and claim damages. A warranty is a collateral stipulation, breach of which entitles only to claim damages but not to repudiate the contract."
+  },
+  {
+    "id": 80,
+    "keywords": ["Copyright", "Indian Copyright Act", "Original work", "Literary works", "Cinematograph films", "Sound recordings", "Automatic protection", "Registration", "Copyright term", "Creative rights"],
+    "answer": "Protection subsists automatically in original literary, dramatic, musical, and artistic works, cinematograph films, and sound recordings. The work must be original and fixed in a tangible medium. No registration is required but provides prima facie evidence. Term lasts 60 years from author’s death (or publication date for films/sound recordings)."
+  },
+  {
+    "id": 81,
+    "keywords": ["Trademark", "Trademark registration", "Trade Marks Act 1999", "TM-A form", "Trademark Registry", "Goods and services", "Trademark Journal", "Opposition", "Certificate of Registration", "Brand protection"],
+    "answer": "File Form TM-A with the trademark registry including applicant details, representation of mark, list of goods/services, and prescribed fee. The registry examines, issues objections or accepts, publishes in the Trademark Journal. If unopposed or after successful opposition proceedings, the mark is registered and Certificate of Registration is issued."
+  },
+  {
+    "id": 82,
+    "keywords": ["Patent infringement", "Patents Act 1970", "Unauthorized use", "Injunction", "Damages", "Account of profits", "Patent rights", "Remedies", "Intellectual property", "Legal protection"],
+    "answer": "Infringement occurs when a third party, without license, makes, uses, sells, or imports a patented invention within India during the term of the patent. Remedies include injunctions, damages or account of profits, and delivery-up of infringing goods."
+  },
+  {
+    "id": 83,
+    "keywords": ["Environmental Impact Assessment", "EIA", "Environment Protection Act 1986", "Environmental clearance", "Development projects", "Public hearing", "MOEFCC", "Impact evaluation", "Project report", "Sustainability"],
+    "answer": "EIA is a process of evaluating potential environmental impacts of proposed projects. Project proponents must prepare an EIA report, conduct public hearings, and obtain environmental clearance from the Ministry of Environment, Forest and Climate Change before commencing specified development activities."
+  },
+  {
+    "id": 84,
+    "keywords": ["FCRA", "Foreign Contribution Regulation Act", "NGO registration", "Ministry of Home Affairs", "Foreign funds", "Five-year renewal", "PAN", "Aadhaar", "Compliance", "Penalty for violation"],
+    "answer": "Any NGO or individual receiving foreign contribution must register with the Ministry of Home Affairs under FCRA. Registration requires submission of credentials, Aadhaar/PAN of key persons, and details of proposed foreign funds’ use. Renewal is required every five years; violations attract penalties and cancellation."
+  },
+  {
+    "id": 85,
+    "keywords": ["GST", "Goods and Services Tax", "GST Act 2017", "Indirect tax", "Registration", "Input Tax Credit", "Returns", "GSTR-1", "GSTR-3B", "GST Council"],
+    "answer": "GST is a destination-based tax on supply of goods and services, levied at multiple rates. Businesses must register if turnover exceeds thresholds, file monthly/quarterly returns (GSTR-1, GSTR-3B), maintain electronic ledgers, and comply with input tax credit provisions. The GST Council recommends rates and policies."
+  },
+  {
+    "id": 86,
+    "keywords": ["NRI", "Income tax", "Non-Resident Indian", "TDS", "Indian income", "Tax liability", "Salary", "Capital gains", "House property", "Income tax return"],
+    "answer": "NRIs are taxed on income accrued or received in India. Income types include salary, house property, capital gains, and other sources. TDS applies at prescribed rates. NRIs can claim deductions under Chapters VI-A and must file returns if income exceeds basic exemption limits."
+  },
+  {
+    "id": 87,
+    "keywords": ["SEBI", "Substantial Acquisition", "Takeover Regulations 2011", "Open offer", "Listed company", "25% threshold", "Minority shareholders", "Disclosure requirements", "Acquisition of control", "Fair pricing"],
+    "answer": "Regulations require an acquirer to make an open offer to shareholders upon acquisition of 25% or control change in a listed company. Mandatory disclosures, minimum acceptance levels, and pricing mechanism are prescribed to protect minority shareholders."
+  },
+  {
+    "id": 88,
+    "keywords": ["Competition Act 2002", "Anti-competitive agreements", "Abuse of dominance", "Cartel", "Merger control", "Section 3", "Section 4", "Section 5", "CCI", "Market fairness"],
+    "answer": "It prohibits anti-competitive agreements (Section 3), abuse of dominant position (Section 4), and regulates mergers/acquisitions that may cause appreciable adverse effect on competition (Section 5–6). The Competition Commission of India investigates, imposes penalties, and may order divestiture."
+  },
+  {
+    "id": 89,
+    "keywords": ["Locus standi", "Legal standing", "Right to sue", "Public Interest Litigation", "Judicial access", "Constitutional law", "Person aggrieved", "Sufficient interest", "Legal capacity", "Court petition"],
+    "answer": "Locus standi refers to the legal capacity to bring an action or appear in court. Traditionally restricted to those directly affected, it has been liberalized in cases of public interest litigation, allowing any person with sufficient interest or acting for public good to file petitions."
+  },
+  {
+    "id": 90,
+    "keywords": ["Sedition", "Section 124A IPC", "Disaffection", "Government criticism", "Public disorder", "Free speech", "Incitement to violence", "Hate speech", "Criminal offense", "Life imprisonment"],
+    "answer": "Section 124A penalizes words or actions that bring or attempt to bring hatred, contempt, or disaffection towards the Government established by law. Punishment includes imprisonment up to life. Judicial interpretation requires clear incitement to violence or public disorder."
+  }
+    ]
+}
